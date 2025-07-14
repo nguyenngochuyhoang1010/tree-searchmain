@@ -9,4 +9,5 @@ How to run?
 You must install Python
 
 No libraries are needed
+
 In terminal, type: python search.py testcases/test(1-10).txt [algorithms]
